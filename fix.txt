@@ -1,0 +1,10 @@
+The following dependency needs to be added:
+
+```xml
+<dependency>
+	<groupId>io.vertx</groupId
+	<artifactId>vertx-stack-depchain</artifactId
+	<version>4.4.0</version
+	<scope>import</scope
+</dependency>
+```
